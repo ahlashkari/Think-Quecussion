@@ -8,13 +8,13 @@ I believe that every classroom has its own unique community, especially when int
 
 (2) Actual teaching (theory and practice),  
 
-(3) Think-Qcussion (10-15 minutes).
+(3) Think-Que-Cussion (10-15 minutes).
 
 
 Algorithm 1 lists the step by step procedure to implement my initiative. In every practice session, I provide a hand out to the students to learn and perform the experiments independently. This practice allows them to explore different directions and learn from their mistakes if they commit any. Finally, the last part of the methodology is designed to cover the third essential element of my teaching philosophy, a two-step process covering the "think" and "qcussion" part. At the end of my teaching part, I select a random student from one of the previous day's attendance list and ask him/her to ask a question and suggest one number randomly. This is the first step in "Think-Que-Cussion", where the student thinks of a logical question. Now, the second selected student responds to first student's question and then asks a question and suggests a random number that will be the third student chosen from the attendance list. This is the second step in the proposed process in which discussion of concepts through questions starts, and students start churning their brain wheels. This process continues until questions related to topics covered till that session are asked and responded. This is a new version of peer-learning techniques that I named "Think-Que-Cussion". It is one of the best practices that students find quite comfortable to answer questions that enhance their knowledge and boost their confidence (You can find the students feedback in the teaching effectiveness section). 
 
 
-Algorithm 1: Think-Qcussion {
+Algorithm 1: Think-Que-Cussion {
 
       Procedure {
       
@@ -41,12 +41,12 @@ Algorithm 1: Think-Qcussion {
   } End Algorithm
 
 
-As the algorithm 1 shows, in every practice session, I provide a hand out to the students to learn and perform the experiments independently. This practice allows them to explore different directions and learn from their mistakes if they commit any. Finally, the last part of the methodology is designed to cover the third essential element of my teaching philosophy, a two-step process covering the "think" and "Que-Cussion" part. At the end of my teaching part, I select a random student from one of the previous day's attendance list and ask him/her to ask a question and suggest one number randomly. This is the first step in "Think-Que-Cussion", where the student thinks of a logical question. Now, the second selected student responds to first student's question and then asks a question and suggests a random number that will be the third student chosen from the attendance list. This is the second step in the proposed process in which discussion of concepts through questions starts, and students start churning their brain wheels. This process continues until questions related to topics covered till that session are asked and responded. This is a new version of peer-learning techniques that I named "Think-Qcussion". It is one of the best practices that students find quite comfortable to answer questions that enhance their knowledge and boost their confidence.
+As the algorithm 1 shows, in every practice session, I provide a hand out to the students to learn and perform the experiments independently. This practice allows them to explore different directions and learn from their mistakes if they commit any. Finally, the last part of the methodology is designed to cover the third essential element of my teaching philosophy, a two-step process covering the "think" and "Que-Cussion" part. At the end of my teaching part, I select a random student from one of the previous day's attendance list and ask him/her to ask a question and suggest one number randomly. This is the first step in "Think-Que-Cussion", where the student thinks of a logical question. Now, the second selected student responds to first student's question and then asks a question and suggests a random number that will be the third student chosen from the attendance list. This is the second step in the proposed process in which discussion of concepts through questions starts, and students start churning their brain wheels. This process continues until questions related to topics covered till that session are asked and responded. This is a new version of peer-learning techniques that I named "Think-Que-Cussion". It is one of the best practices that students find quite comfortable to answer questions that enhance their knowledge and boost their confidence.
  
 
 ## Copyright (c) 2020
 
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (Think-Que-cussion), to deal
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (Think-Que-Cussion), to deal
 in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
 copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
